@@ -1,7 +1,7 @@
 /*
 Name: Sharan Rathnakumar
 Date: 14th November 2022
-Description: WAP to find factorial of given number using recursion
+Description: WAP to find factorial of given number using recursion (main function itself)
 Input:Enter the value of N : 7
 Output:Factorial of the given number is 5040
 */
